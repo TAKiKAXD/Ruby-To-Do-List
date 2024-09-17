@@ -40,7 +40,7 @@ Feel free to open issues or submit pull requests to contribute to this project.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
